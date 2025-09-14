@@ -1,0 +1,14 @@
+# system & editor
+.DS_Store
+.vscode/
+.idea/
+
+# Docker volumes & runtime data
+db_data/
+*.log
+
+# OS files
+Thumbs.db
+
+# environment files
+.env
