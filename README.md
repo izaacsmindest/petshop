@@ -11,7 +11,10 @@ It demonstrates:
 
 ## 🚀 How to Run
 
-# Pet Shop Website
+# 🐾 Pet Shop Web App  
 
-Click here to view the live site: [Pet Shop](https://izaacsmindest.github.io/petshop/)
+Click below to open the **Sign In Page**:  
+
+👉 [Go to Sign In Page](https://izaacsmindest.github.io/petshop/signinpage.html)  
+
 
