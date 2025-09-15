@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Sign Up - Pet Shop</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Create Account 🐾</h1>
+    <?php if ($message): ?>
+      <p style="color:red;"><?= $message ?></p>
+    <?php endif; ?>
+    <form method="post" action="">
+      <label>Full Name</label>
+      <input type="text" name="fullname" required>
+
+      <label>Username</label>
+      <input type="text" name="username" required>
+
+      <label>Password</label>
+      <input type="password" name="password" required>
+
+      <button type="button" onclick="window.location.href='Dashboard.html'">Login</button>
+
+    </form>
+    <p>Already have an account? <a href="signinpage.html">Login here</a></p>
+  </div>
+</body>
+</html>
