@@ -11,7 +11,7 @@ It demonstrates:
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/izaacsmindest/pet-shop.git
-   cd pet-shop
+# Pet Shop Website
+
+Click here to view the live site: [Pet Shop](https://izaacsmindest.github.io/petshop/)
+
