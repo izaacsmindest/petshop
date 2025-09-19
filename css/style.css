@@ -15,7 +15,7 @@ body {
 }
 
 h1, h2 {
-  color: #2a7f62;
+  color: #c214da;
   text-align: center;
 }
 
@@ -37,7 +37,7 @@ input {
 button {
   margin-top: 15px;
   padding: 10px;
-  background: #2a7f62;
+  background: #c214da;
   color: white;
   border: none;
   border-radius: 5px;
@@ -45,8 +45,7 @@ button {
 }
 
 button:hover {
-  background: #246b53;
-}
+  background: #c214da;
 
 .menu {
   list-style: none;
@@ -59,7 +58,7 @@ button:hover {
 
 .menu a {
   text-decoration: none;
-  color: #2a7f62;
+  color: #c214da;
   font-weight: bold;
 }
 
@@ -75,3 +74,4 @@ button:hover {
   font-weight: bold;
   text-decoration: underline;
 }
+
